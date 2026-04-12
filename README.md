@@ -2,4 +2,7 @@
 # throwaway.inj
 .dll injector coded in c++ in under 20 min
 
-
+works on windows 10/11
+maybe 7/8 but it is not tested yet
+for support or source code add my discord
+drhiroshima
